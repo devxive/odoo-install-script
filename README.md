@@ -1,2 +1,2 @@
 # odoo-install-script
-ODOO Install Scripts
+ODOO Install Script for Ubuntu 14.04 LTS
